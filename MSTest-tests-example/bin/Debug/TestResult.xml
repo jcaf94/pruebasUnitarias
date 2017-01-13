@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\riaxp\Mis documentos\Visual Studio 2010\Projects\nunit-tests-example\nunit-tests-example\bin\Debug\nunit-tests-example.dll" total="7" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-10-17" time="12:44:42">
+  <environment nunit-version="2.5.7.10213" clr-version="4.0.30319.1" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Documents and Settings\riaxp\Mis documentos\Visual Studio 2010\Projects\nunit-tests-example\nunit-tests-example\bin\Debug" machine-name="XPRIA-PC" user="riaxp" user-domain="XPRIA-PC" />
+  <culture-info current-culture="es-ES" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="C:\Documents and Settings\riaxp\Mis documentos\Visual Studio 2010\Projects\nunit-tests-example\nunit-tests-example\bin\Debug\nunit-tests-example.dll" executed="True" result="Success" success="True" time="0.040" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="tests_example_01" executed="True" result="Success" success="True" time="0.040" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="tests" executed="True" result="Success" success="True" time="0.040" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="CustomReplacerTests" executed="True" result="Success" success="True" time="0.040" asserts="0">
+                <results>
+                  <test-case name="tests_example_01.tests.CustomReplacerTests.TestIT1" executed="True" result="Success" success="True" time="0.010" asserts="0" />
+                  <test-case name="tests_example_01.tests.CustomReplacerTests.TestIT2" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="tests_example_01.tests.CustomReplacerTests.TestIT3" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="tests_example_01.tests.CustomReplacerTests.TestVT1" executed="True" result="Success" success="True" time="0.020" asserts="2" />
+                  <test-case name="tests_example_01.tests.CustomReplacerTests.TestVT2" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="tests_example_01.tests.CustomReplacerTests.TestVT3" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="tests_example_01.tests.CustomReplacerTests.TestVT4" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

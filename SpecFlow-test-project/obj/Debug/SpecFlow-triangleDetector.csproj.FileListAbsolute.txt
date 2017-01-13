@@ -1,0 +1,9 @@
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\bin\Debug\SpecFlow-test-project.dll.config
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\bin\Debug\SpecFlow-test-project.dll
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\bin\Debug\SpecFlow-test-project.pdb
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\bin\Debug\TechTalk.SpecFlow.dll
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\bin\Debug\TriangleDetector.dll
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\obj\Debug\SpecFlow-triangleDetector.csprojResolveAssemblyReference.cache
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\obj\Debug\SpecFlow-test-project.dll
+F:\Master\PYC\MSTest-tests-example\SpecFlow-test-project\obj\Debug\SpecFlow-test-project.pdb

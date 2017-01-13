@@ -1,0 +1,11 @@
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\bin\Debug\MSTest-test-project.dll
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\bin\Debug\MSTest-test-project.pdb
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\obj\Debug\MSTest-test-project.csprojResolveAssemblyReference.cache
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\obj\Debug\MSTest-test-project.dll
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\obj\Debug\MSTest-test-project.pdb
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\bin\Debug\MSTest-tests-example.dll
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\bin\Debug\MSTest-tests-example.pdb
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\bin\Debug\Castle.Core.dll
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\bin\Debug\Moq.dll
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\bin\Debug\Castle.Core.xml
+F:\Master\PYC\MSTest-tests-example\MSTest-test-project\bin\Debug\Moq.xml

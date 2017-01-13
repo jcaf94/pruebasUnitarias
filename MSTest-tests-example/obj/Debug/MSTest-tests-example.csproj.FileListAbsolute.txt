@@ -1,0 +1,25 @@
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\nunit-tests-example\bin\Debug\MSTest-tests-example.dll
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\nunit-tests-example\bin\Debug\MSTest-tests-example.pdb
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\nunit-tests-example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\nunit-tests-example\obj\Debug\MSTest-tests-example.dll
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\nunit-tests-example\obj\Debug\MSTest-tests-example.pdb
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\MSTest-tests-example\bin\Debug\MSTest-tests-example.dll
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\MSTest-tests-example\bin\Debug\MSTest-tests-example.pdb
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\MSTest-tests-example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.dll
+C:\Documents and Settings\Usuario\Escritorio\Recurs\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.pdb
+C:\Documents and Settings\Usuario\Escritorio\Recursos\MSTest-tests-example\MSTest-tests-example\bin\Debug\MSTest-tests-example.dll
+C:\Documents and Settings\Usuario\Escritorio\Recursos\MSTest-tests-example\MSTest-tests-example\bin\Debug\MSTest-tests-example.pdb
+C:\Documents and Settings\Usuario\Escritorio\Recursos\MSTest-tests-example\MSTest-tests-example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Escritorio\Recursos\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.dll
+C:\Documents and Settings\Usuario\Escritorio\Recursos\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.pdb
+C:\Users\PcCom\Desktop\Master\PYC\MSTest-tests-example\MSTest-tests-example\bin\Debug\MSTest-tests-example.dll
+C:\Users\PcCom\Desktop\Master\PYC\MSTest-tests-example\MSTest-tests-example\bin\Debug\MSTest-tests-example.pdb
+C:\Users\PcCom\Desktop\Master\PYC\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.csprojResolveAssemblyReference.cache
+C:\Users\PcCom\Desktop\Master\PYC\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.dll
+C:\Users\PcCom\Desktop\Master\PYC\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.pdb
+F:\Master\PYC\MSTest-tests-example\MSTest-tests-example\bin\Debug\MSTest-tests-example.dll
+F:\Master\PYC\MSTest-tests-example\MSTest-tests-example\bin\Debug\MSTest-tests-example.pdb
+F:\Master\PYC\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.csprojResolveAssemblyReference.cache
+F:\Master\PYC\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.dll
+F:\Master\PYC\MSTest-tests-example\MSTest-tests-example\obj\Debug\MSTest-tests-example.pdb

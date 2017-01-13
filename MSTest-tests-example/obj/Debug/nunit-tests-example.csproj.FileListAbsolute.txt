@@ -1,0 +1,12 @@
+c:\documents and settings\riaxp\mis documentos\visual studio 2010\Projects\nunit-tests-example\nunit-tests-example\bin\Debug\nunit-tests-example.dll
+c:\documents and settings\riaxp\mis documentos\visual studio 2010\Projects\nunit-tests-example\nunit-tests-example\bin\Debug\nunit-tests-example.pdb
+c:\documents and settings\riaxp\mis documentos\visual studio 2010\Projects\nunit-tests-example\nunit-tests-example\bin\Debug\nunit.framework.dll
+c:\documents and settings\riaxp\mis documentos\visual studio 2010\Projects\nunit-tests-example\nunit-tests-example\bin\Debug\nunit.framework.xml
+c:\documents and settings\riaxp\mis documentos\visual studio 2010\Projects\nunit-tests-example\nunit-tests-example\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\riaxp\mis documentos\visual studio 2010\Projects\nunit-tests-example\nunit-tests-example\obj\Debug\nunit-tests-example.dll
+c:\documents and settings\riaxp\mis documentos\visual studio 2010\Projects\nunit-tests-example\nunit-tests-example\obj\Debug\nunit-tests-example.pdb
+C:\Documents and Settings\Usuario\Escritorio\Recurs\nunit-tests-example\nunit-tests-example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Escritorio\Recurs\nunit-tests-example\nunit-tests-example\obj\Debug\nunit-tests-example.dll
+C:\Documents and Settings\Usuario\Escritorio\Recurs\nunit-tests-example\nunit-tests-example\obj\Debug\nunit-tests-example.pdb
+C:\Documents and Settings\Usuario\Escritorio\Recurs\nunit-tests-example\nunit-tests-example\bin\Debug\nunit-tests-example.dll
+C:\Documents and Settings\Usuario\Escritorio\Recurs\nunit-tests-example\nunit-tests-example\bin\Debug\nunit-tests-example.pdb
