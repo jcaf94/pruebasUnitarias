@@ -44,7 +44,6 @@
     <Compile Include="Mocks\IFecha.cs" />
     <Compile Include="Mocks\ImageManagement.cs" />
     <Compile Include="Mocks\RealDate.cs" />
-    <Compile Include="Private\Class1.cs" />
     <Compile Include="Private\LogonInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

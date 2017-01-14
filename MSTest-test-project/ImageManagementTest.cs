@@ -14,11 +14,11 @@ namespace MSTest_test_project
     public class ImageManagementTest
     {
         [TestMethod]
-        public void TestMethodMoon()
+        public void HorarioImagenLuna()
         {
             var mock = new Mock<IFecha>();
-            mock.Setup(fecha => fecha.getFecha()).Returns(3);
-            MSTest_tests_example.Mocks.Date.ImageManagement obj = new MSTest_tests_example.Mocks.Date.ImageManagement(mock.Object);
+            mock.Setup(fecha => fecha.getFecha()).Returns(5);
+            ImageManagement obj = new ImageManagement(mock.Object);
             string resultado = obj.GetImageForTimeOfDay();
 
             Assert.AreEqual("moon.jpg", resultado);
@@ -26,11 +26,11 @@ namespace MSTest_test_project
         }
 
         [TestMethod]
-        public void TestMethodSun()
+        public void HorarioImagenSol()
         {
             var mock = new Mock<IFecha>();
-            mock.Setup(fecha => fecha.getFecha()).Returns(15);
-            MSTest_tests_example.Mocks.Date.ImageManagement obj = new MSTest_tests_example.Mocks.Date.ImageManagement(mock.Object);
+            mock.Setup(fecha => fecha.getFecha()).Returns(12);
+            ImageManagement obj = new ImageManagement(mock.Object);
             string resultado = obj.GetImageForTimeOfDay();
 
             Assert.AreEqual("sun.jpg", resultado);
@@ -38,11 +38,47 @@ namespace MSTest_test_project
         }
 
         [TestMethod]
-        public void TestMethodBorderline()
+        public void LimiteHorarioInferior()
         {
             var mock = new Mock<IFecha>();
             mock.Setup(fecha => fecha.getFecha()).Returns(6);
-            MSTest_tests_example.Mocks.Date.ImageManagement obj = new MSTest_tests_example.Mocks.Date.ImageManagement(mock.Object);
+            ImageManagement obj = new ImageManagement(mock.Object);
+            string resultado = obj.GetImageForTimeOfDay();
+
+            Assert.AreEqual("moon.jpg", resultado);
+            mock.Verify(f => f.getFecha(), Times.Once);
+        }
+
+        [TestMethod]
+        public void LimiteHorarioSuperior()
+        {
+            var mock = new Mock<IFecha>();
+            mock.Setup(fecha => fecha.getFecha()).Returns(21);
+            ImageManagement obj = new ImageManagement(mock.Object);
+            string resultado = obj.GetImageForTimeOfDay();
+
+            Assert.AreEqual("moon.jpg", resultado);
+            mock.Verify(f => f.getFecha(), Times.Once);
+        }
+
+        [TestMethod]
+        public void HoraNegativa()
+        {
+            var mock = new Mock<IFecha>();
+            mock.Setup(fecha => fecha.getFecha()).Returns(-5);
+            ImageManagement obj = new ImageManagement(mock.Object);
+            string resultado = obj.GetImageForTimeOfDay();
+
+            Assert.AreEqual("moon.jpg", resultado);
+            mock.Verify(f => f.getFecha(), Times.Once);
+        }
+
+        [TestMethod]
+        public void HoraNull()
+        {
+            var mock = new Mock<IFecha>();
+            mock.Setup(fecha => fecha.getFecha()).Returns(null);
+            ImageManagement obj = new ImageManagement(mock.Object);
             string resultado = obj.GetImageForTimeOfDay();
 
             Assert.AreEqual("moon.jpg", resultado);
