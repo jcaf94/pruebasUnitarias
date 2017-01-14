@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTest-test-project", "MSTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow-triangleDetector", "SpecFlow-test-project\SpecFlow-triangleDetector.csproj", "{4FAA1FE8-D5AA-4E9C-A9C0-A0F8DBFEAF6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow-tests-project", "SpecFlow-tests-project\SpecFlow-tests-project.csproj", "{4B707574-F0E3-4062-846F-5A2BF97B4D6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{4FAA1FE8-D5AA-4E9C-A9C0-A0F8DBFEAF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FAA1FE8-D5AA-4E9C-A9C0-A0F8DBFEAF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FAA1FE8-D5AA-4E9C-A9C0-A0F8DBFEAF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B707574-F0E3-4062-846F-5A2BF97B4D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B707574-F0E3-4062-846F-5A2BF97B4D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B707574-F0E3-4062-846F-5A2BF97B4D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B707574-F0E3-4062-846F-5A2BF97B4D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,63 +8,65 @@ namespace MSTest_test_project
     public class CustomReplacerTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CustomReplacerCorrecto()
         {
             CustomReplacer obj = new CustomReplacer();
             String str = "hola";
             String character = "o";
 
-            String excepted = "h1la";
-            String actual = "";
+            String expected = "h1la";
 
-            actual = obj.CustomReplace(str, character);
+            String actual = obj.CustomReplace(str, character);
 
-            Assert.AreEqual(excepted, actual);
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod]
-        public void ComprobarCaracteresNumericos()
+        public void CustomReplacerNoCharInString()
         {
             CustomReplacer obj = new CustomReplacer();
-            String str = "3351";
-            String character = "3";
+            String str = "hola";
+            String character = "e";
 
-            String excepted = "1251";
-            String actual = "0151";
+            String expected = "hola";
 
-            actual = obj.CustomReplace(str, character);
+            String actual = obj.CustomReplace(str, character);
 
-            Assert.AreEqual(excepted, actual);
+            Assert.AreEqual(expected, actual);
+        }
+
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception), "datos incorrectos en la entrada")]
+        public void CustomReplacerCharTooLong()
+        {
+            CustomReplacer obj = new CustomReplacer();
+            String str = "hola";
+            String character = "ol";
+
+            String actual = obj.CustomReplace(str, character);
         }
 
         [TestMethod]
         [ExpectedException(typeof(Exception), "datos incorrectos en la entrada")]
-        public void ComprobarDosCaracteres()
+        public void CustomReplacerStringIsNull()
         {
             CustomReplacer obj = new CustomReplacer();
-            String str = "hola";
-            String character = "33";
+            String str = null;
+            String character = "o";
 
-            String excepted = "hola";
-            String actual = "hola";
-
-            actual = obj.CustomReplace(str, character);
-            Assert.AreEqual(excepted, actual);
+            String actual = obj.CustomReplace(str, character);
         }
 
         [TestMethod]
         [ExpectedException(typeof(Exception), "datos incorrectos en la entrada")]
-        public void ComprobarDosCaracteres2()
+        public void CustomReplacerCharIsNull()
         {
             CustomReplacer obj = new CustomReplacer();
             String str = "hola";
-            String character = "33";
+            String character = null;
 
-            String excepted = "hola";
-            String actual = "hola";
-
-            actual = obj.CustomReplace(str, character);
-            Assert.AreEqual(excepted, actual);
+            String actual = obj.CustomReplace(str, character);
         }
     }
 }
